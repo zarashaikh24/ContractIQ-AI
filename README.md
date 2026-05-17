@@ -90,6 +90,17 @@ http://localhost:5173/
 
 ## 🖼️ Screenshots
 
+### 📊 Dashboard
+![Dashboard](./dashboard1.png)
+
+### 📄 Upload Page
+![Upload](./upload.png)
+
+### 💬 AI Chat
+![AI Chat](./ai_chat.png)
+
+### 📈 Analysis View
+![Analysis](./analysis.png)
 ---
 
 ## 📌 Key Highlights
