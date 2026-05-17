@@ -99,14 +99,6 @@ _Add your project screenshots here_
 
 ---
 
-## 📂 Installation (For Developers)
-
-```bash
-git clone https://github.com/your-username/contractiq-ai.git
-cd contractiq-ai
-npm install
-npm run dev
-
 
 ## ⚙️ How to Run This Project Locally
 
