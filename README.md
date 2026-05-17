@@ -8,7 +8,7 @@ It detects risky clauses, evaluates legal and financial exposure, provides compl
 ---
 
 ## 🚀 Live Demo
-https://your-live-link-here.com
+https://your-live-deployed-link.com
 
 ---
 
@@ -49,7 +49,7 @@ ContractIQ AI solves this by:
 
 ## 🏗️ Tech Stack
 
-- Frontend: React / Vite / HTML-CSS-JS
+- Frontend: React / Vite / HTML / CSS / JS
 - Backend: Node.js / Express (if used)
 - AI Engine: NLP-based analysis system
 - Styling: Tailwind CSS / CSS3
@@ -64,21 +64,31 @@ ContractIQ AI solves this by:
 3. Clause Extraction & Analysis
 4. Risk Detection Engine
 5. AI Suggestions Generated
-6. Final Report Dashboard Displayed
+6. Final Result Dashboard Displayed
+
+---
+
+## ⚙️ How to Run This Project Locally
+
+1. Clone the Repository
+```bash
+git clone https://github.com/your-username/contractiq-ai.git
+cd contractiq-ai
+npm install
+npm run dev
+http://localhost:5173/
 
 ---
 
 ## 📊 Risk Categories
 
-- 🔴 High Risk Clauses
-- 🟠 Medium Risk Clauses
-- 🟢 Low Risk Clauses
+🔴 High Risk Clauses
+🟠 Medium Risk Clauses
+🟢 Low Risk Clauses
 
 ---
 
 ## 🖼️ Screenshots
-
-_Add your project screenshots here_
 
 ---
 
@@ -91,118 +101,28 @@ _Add your project screenshots here_
 
 ---
 
-## 👨‍💻 Project Status
+Project Status
 
-✔ Completed for IBM Hackathon 2026  
-✔ Fully functional prototype  
-✔ Ready for demo and evaluation  
-
----
-
-
-## ⚙️ How to Run This Project Locally
-
-Follow these steps to run the project on your system:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/contractiq-ai.git
-cd contractiq-ai
-npm install
-npm run dev
-http://localhost:5173/
-
-
-## 🧪 Example Usage
-
-1. Open the application
-2. Upload or paste a contract
-3. Click **Analyze Contract**
-4. View:
-   - Risk Score
-   - Clause Analysis
-   - Compliance Report
-   - AI Suggestions
+✔ Completed for IBM Hackathon 2026
+✔ Fully functional MVP
+✔ Ready for evaluation and demo
 
 ---
 
-## 📊 Output Explanation
+Requirements
 
-The system provides:
-
-- 🔴 High Risk: Clauses that may cause legal/financial issues
-- 🟠 Medium Risk: Clauses that need review or clarification
-- 🟢 Low Risk: Standard safe clauses
-
-Each analysis includes:
-- Explanation of risk
-- Suggested improvement
-- AI-generated summary
+Node.js v16+
+npm installed
 
 ---
 
-## 🧠 AI Capabilities
+Contact
 
-ContractIQ AI uses intelligent rule-based + NLP-inspired analysis to:
-
-- Extract key clauses from contracts
-- Understand legal intent of text
-- Detect risky patterns
-- Classify risk levels
-- Generate improved contract suggestions
+Developer: Zara Asif Ali Shaikh
+Email: zarashaikh240106@gmail.com
 
 ---
 
-## 🏗️ System Architecture
+Acknowledgement
 
-Frontend → User uploads contract  
-Backend → Processes text input  
-AI Engine → Analyzes clauses  
-Risk Engine → Assigns risk levels  
-UI Dashboard → Displays results
-
----
-
-## 📈 Future Improvements
-
-- AI-powered legal chatbot
-- Multi-language contract support
-- Real-time collaboration tools
-- PDF highlighting of risky clauses
-- Advanced legal dataset training
-- Export report as PDF
-
----
-
-## 🏆 Hackathon Submission Info
-
-- Project Name: ContractIQ AI  
-- Category: AI / LegalTech SaaS  
-- Type: Web Application  
-- Status: Prototype / MVP  
-
----
-
-## ⚠️ Limitations
-
-- AI analysis is for informational purposes only
-- Not a replacement for legal consultation
-- Accuracy depends on input contract clarity
-
----
-
-## 👨‍💻 Developer Notes
-
-This project was built as a hackathon MVP to demonstrate:
-- AI-powered document understanding
-- Risk detection systems
-- Practical legal tech use cases
-
----
-
-## 🎯 Final Statement
-
-ContractIQ AI aims to simplify legal contract understanding using artificial intelligence, making contract analysis faster, safer, and more accessible for everyone.
-
----
-
+Built for IBM Hackathon 2026 using AI-based contract intelligence concepts.
