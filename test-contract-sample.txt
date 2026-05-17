@@ -1,0 +1,29 @@
+FREELANCE SERVICES AGREEMENT
+
+This Freelance Services Agreement ("Agreement") is entered into as of January 15, 2024, by and between TechCorp Solutions Inc. ("Client") and John Developer ("Freelancer").
+
+1. SERVICES
+Freelancer agrees to provide web development services including frontend development, backend API integration, and database design as outlined in the attached Statement of Work.
+
+2. PAYMENT TERMS
+Client shall pay Freelancer $8,000 per month, payable within 30 days of invoice. Late payments will incur a 6% penalty per month. All payments are non-refundable.
+
+3. TERM AND TERMINATION
+This Agreement shall commence on February 1, 2024 and continue for 6 months. Client may terminate this agreement at any time without notice. Freelancer must provide 60 days notice to terminate.
+
+4. INTELLECTUAL PROPERTY
+All work product, code, designs, and deliverables created by Freelancer shall immediately become the exclusive property of Client upon creation, regardless of payment status.
+
+5. CONFIDENTIALITY
+Freelancer agrees to maintain strict confidentiality of all Client proprietary information. This obligation continues indefinitely after termination.
+
+6. LIABILITY AND INDEMNIFICATION
+Freelancer's liability is limited to $500 total. Freelancer makes no warranties of any kind. Freelancer shall indemnify and hold harmless Client from any and all claims, including attorney fees.
+
+7. NON-COMPETE
+Freelancer agrees not to work for any competing business for 2 years after this agreement ends, within a 500-mile radius.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California. Any disputes must be resolved in California courts.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
